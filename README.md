@@ -57,10 +57,10 @@ Here are a few highlights from the analysis:
 |-----------------------------------------------------|---------------------------------------------------------------------|<br>
 |                       Insight                       | Description                                                         |<br>
 |-----------------------------------------------------|---------------------------------------------------------------------|<br>
-|  **Greed correlates with higher profitability**     | Average `Closed PnL` is noticeably higher on `Greed` days           |<br>
-|  **Profitability rate varies with sentiment**       | Proportion of winning trades is higher during `Neutral` and `Greed` |<br>
-|  **Symbol performance differs per sentiment**       | Certain coins (symbols) perform better under specific market moods  |<br>
-|  **Low correlation between trade size and success** | Bigger trades do not necessarily lead to higher returns             |<br>
+|  Greed correlates with higher profitability         | Average `Closed PnL` is noticeably higher on `Greed` days           |<br>
+|  Profitability rate varies with sentiment           | Proportion of winning trades is higher during `Neutral` and `Greed` |<br>
+|  Symbol performance differs per sentiment           | Certain coins (symbols) perform better under specific market moods  |<br>
+|  Low correlation between trade size and success     | Bigger trades do not necessarily lead to higher returns             |<br>
 |-----------------------------------------------------|---------------------------------------------------------------------|<br>
 ---
 
