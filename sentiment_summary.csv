@@ -1,0 +1,6 @@
+Sentiment,Closed PnL_mean,Closed PnL_std,pnl_per_usd_mean,Size USD_mean,is_profitable_mean
+Extreme Fear,34.538,1136.056,0.004,5349.732,0.371
+Extreme Greed,67.893,766.828,0.04,3112.252,0.465
+Fear,54.29,935.355,0.015,7816.11,0.421
+Greed,42.744,1116.028,0.02,5736.884,0.385
+Neutral,34.308,517.122,0.01,4782.733,0.397
